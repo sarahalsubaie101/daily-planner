@@ -1,5 +1,5 @@
 ## Description 
-The Daily Planner System is a web-based application designed to help users organize and 
+The Daily Planner System is a Java-based application designed to help users organize and 
 manage their daily activities efficiently. The system allows users to create, edit, delete, and view 
 tasks, as well as categorize them for better organization. It provides a simple, user-friendly 
 interface that supports clear task visualization and smooth interaction.
